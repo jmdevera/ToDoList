@@ -1,0 +1,1 @@
+importance(2,4,6) + (Effort(1-3)/daysleft) + fun(1-3)
